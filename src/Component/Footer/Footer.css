@@ -1,0 +1,46 @@
+.background__explore{
+    background-color: #272a33;
+    width: 100%;
+    /* margin-top: 10px; */
+    height: 50vh;
+}
+a{
+    text-decoration: none;
+    color: #87a0ab;
+}
+.color{
+ color: #87a0ab;  
+}
+.div__input{
+    background-color: #2e313a;
+    height: 50px;
+    width: 100% !important;
+    margin-top: 20px;
+    padding: 10px;
+}
+.FooterInput{
+height: 30px;
+width: 90%;
+background-color: #2e313a;
+border: none;
+outline: none;
+color: #87a0ab;
+}
+.icon__send{
+    font-size: 1.5em;
+ color: #87a0ab;  
+}
+.Copy__right{
+    width: 100%;
+    /* width: 100px; */
+    height: 70px;
+    background-color: #2e313a;
+
+}
+.display__setting{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+    color: #95a0a0;
+}

@@ -1,0 +1,23 @@
+.Section__main{
+    width: 100%;
+    background-color: #f8f9fa;
+}
+.left__section{
+    color: #95a0ab;
+    margin-top: 30px;
+}
+.Heading__Explore{
+    color: black;
+}
+li{
+    margin-bottom: 10px;
+}
+li::marker{
+    color: red;
+}
+.buttom{
+    margin-bottom: 50px;
+}
+.iconSetting{
+    font-size: 1.8em;
+}

@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.Navebar__heading {
+  margin-left: 150px;
+  margin-right: 150px;
+  font-size: 2em;
+  font-weight: 700;
+}
+.hover__li:hover {
+  border-bottom: 2px solid yellow;
+  transition: 0.8;
+}
+.navebare__content__parent {
+  gap: 20px;
+}
+.navebare__button {
+margin-left: 230px;
+}
+nav{
+    padding: 20px !important;
+}
+.navebare__button button:hover {
+    margin-bottom: 8px;
+    transition: 2s;
+    }
