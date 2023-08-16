@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.color__div{
+width: 60px;
+height: 3px;
+background-color: red;
+margin: auto;
+margin-bottom: 10px;
+}
+.content__explore{
+    width: 700px;
+
+margin: auto !important;
+margin-top: 20px;
+/* opacity: .3px; */
+color: #6c757d;
+}
+.hoverWala2:hover{
+    margin: 0px !important;
+    transition: all 1s ease-in-out;
+    /* border-bottom: 1px solid #6c757d; */
+}

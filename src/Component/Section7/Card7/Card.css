@@ -1,0 +1,15 @@
+/* @font-face{
+    font-family:Poppins;
+    src: url('../../../font/Poppins-BoldItalic.ttf');
+}
+
+.family{
+font-family: poppins;
+} */
+.family{
+    font-style: italic;
+}
+
+.color{
+    color: darkgrey;
+}
